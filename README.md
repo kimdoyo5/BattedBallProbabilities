@@ -1,9 +1,9 @@
 # Nobel Prize
 ### To-Do
-[] Write pseudocode
-[] Implement pseudocode
-[] Analyze performance (compare against sample mean, softmax, GAM, xgboost, neural network)
-[] Write paper
+[] Write pseudocode  
+[] Implement pseudocode  
+[] Analyze performance (compare against sample mean, softmax, GAM, xgboost, neural network)  
+[] Write paper   
 
 ### Pseudocode
 #### Overleaf Link
