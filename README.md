@@ -1,4 +1,5 @@
-# Nobel Prize
+# Probabilistic Nearest Neighbor with Pseudolabels: A Novel
+Approach to Batted-ball Predictions
 #### Overleaf Link
 https://www.overleaf.com/project/67745fe452147c8371f20511
 #### Overview
