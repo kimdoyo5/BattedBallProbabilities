@@ -1,4 +1,4 @@
-# Probabilistic Nearest Neighbor with Pseudolabels: A Novel
+# Probabilistic Nearest Neighbor with Pseudolabels
 Approach to Batted-ball Predictions
 #### Overleaf Link
 https://www.overleaf.com/project/67745fe452147c8371f20511
