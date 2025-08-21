@@ -1,7 +1,8 @@
 # Probabilistic Nearest Neighbor with Pseudolabels
 Approach to Batted-ball Predictions
-#### Overleaf Link
-https://www.overleaf.com/project/67745fe452147c8371f20511
+#### Paper Link
+https://1drv.ms/b/s!AmLGgWmodKjDl_1pMmHPpTuRnJ04-Q?e=WbDzDs
+
 #### Overview
 
 
